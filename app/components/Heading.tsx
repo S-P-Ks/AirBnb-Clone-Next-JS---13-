@@ -1,6 +1,5 @@
 "use client";
 
-import { Head } from "next/document";
 import React from "react";
 
 interface HeadingProps {
