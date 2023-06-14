@@ -1,3 +1,5 @@
+import prisma from "@/app/libs/prismadb"
+
 interface IParams {
     lisitingId?: string
 }
