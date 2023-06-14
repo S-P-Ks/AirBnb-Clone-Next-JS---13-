@@ -23,6 +23,8 @@ const ListingPage = async ({ params }: { params: IParams }) => {
     );
   }
 
+  console.log(lisiting);
+
   return (
     <div>
       <ListingClient
